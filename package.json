@@ -1,0 +1,33 @@
+{
+  "name": "signzy",
+  "version": "1.0.0",
+  "description": "Simple server to scrape National Green Tribunal",
+  "main": "server.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drakaris/signzy"
+  },
+  "keywords": [
+    "National",
+    "Green",
+    "Tribunal",
+    "Node.Js",
+    "scraping",
+    "PhantomJs"
+  ],
+  "author": "Arjhun Srinivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drakaris/signzy/issues"
+  },
+  "homepage": "https://github.com/drakaris/signzy",
+  "dependencies": {
+    "async": "^2.0.1"
+  }
+}

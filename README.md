@@ -1,2 +1,2 @@
-# signzy
-Web scraper for National Green Tribunal
+# Green Tribunal Scraper
+A simple CasperJS web scraper
