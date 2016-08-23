@@ -2,10 +2,9 @@
 A simple CasperJS web scraper that dumps JSON into a text file
 
 ### Getting Started
-To get started clone this project
-```
-git clone https://github.com/drakaris/signzy
-```
+To get started, clone this project
+`git clone https://github.com/drakaris/signzy`
+
 #### Installing Dependencies
 This scraper requires a few external utilities to function.
 CasperJS can be installed using [this guide](http://docs.casperjs.org/en/latest/installation.html). If you're a Mac user I strongly suggest installing via [Homebrew](http://brew.sh).
