@@ -14,8 +14,7 @@ npm install
 ```
 from within the project folder.
 
-##### **Note:**
-CasperJS needs to be installed as a global utility for ease of use.
+**Note:** CasperJS needs to be installed as a global utility for ease of use.
 
 #### Usage
 The entire **National Green Tribunal** website can be scraped by running
