@@ -24,3 +24,6 @@ casperjs server.js
 ## How it works
 [CasperJS](http://casperjs.org) is built on [PhantomJS](http://phantomjs.org), which is a headless WebKit with a JavaScript API.
 CasperJS visits the National Green Tribunal website's search page and iterates through all available records amongst each year that is searchable. Every record with all available information pertaining to it, is written into a file, **dump.txt**, for further processing.
+
+## Disclaimer
+All gathered data is publicly available. This is purely an experimental personal project to understand scraping ASP powered websites.
